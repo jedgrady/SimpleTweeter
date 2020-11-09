@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-file:///C:/Users/Jed/Desktop/SimpleTweeter/walkthrough%202.gif
-
+<img src="walkthrough 2.gif" width=250><br>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
