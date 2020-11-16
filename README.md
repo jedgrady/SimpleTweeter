@@ -99,7 +99,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=' title='walkthrough 2.gif' width='' alt='Video Walkthrough' />
+<img src= 'file:///C:/Users/Jed/Desktop/SimpleTweeter/walkthrough%202.gif'
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
