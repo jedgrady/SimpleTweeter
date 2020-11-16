@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/AmieteeF/SimpleTweeter/blob/master/walkthroughP2.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jedgrady/SimpleTweeter/blob/master/walkthrough.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -99,7 +99,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=' title='Walkthrough 2' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
